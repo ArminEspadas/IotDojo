@@ -3,7 +3,7 @@ This applications show the implementation of a IOT system using realtime firebas
 
 Quick Started: 
 
-<h3> 1. Create your account on</h3>
+<h3>  Create your account on</h3>
 
 https://firebase.google.com/
 
@@ -21,7 +21,7 @@ https://www.arduino.cc/en/main/software
  
 Firebase-arduino-master
 
-https://drive.google.com/drive/folders/1T4VKhtC4bWj2gQ_gsPTr1oreXFwmTdW5
+https://drive.google.com/open?id=1g1kVCM-n_6iGcZQLAPY_ZkLoy9w8hrCd
 
 <h3> Test clicking the next link  </h3>
 
