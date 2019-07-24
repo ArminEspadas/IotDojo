@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752488755524",
+    "firebase_url": "https://iotdemo-a9462.firebaseio.com",
+    "project_id": "iotdemo-a9462",
+    "storage_bucket": "iotdemo-a9462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752488755524:android:0b97a2bf8b57342c",
+        "android_client_info": {
+          "package_name": "com.example.iotdojo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752488755524-17ugktag4on17t9uan3cqribg5bgmubo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrHV8CrxULr5X-qDokSE0etVRIPPW6dJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752488755524-17ugktag4on17t9uan3cqribg5bgmubo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
